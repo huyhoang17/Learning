@@ -8,3 +8,5 @@ Learning
 - Scipy
 
 - Pandas
+
+- Scikit-learn

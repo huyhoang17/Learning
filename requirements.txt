@@ -1,9 +1,11 @@
 appdirs==1.4.3
 backports-abc==0.5
 bleach==2.0.0
+brewer2mpl==1.4.1
 cycler==0.10.0
 decorator==4.0.11
 entrypoints==0.2.2
+ggplot==0.11.5
 html5lib==0.999999999
 ipykernel==4.5.2
 ipython==5.3.0
@@ -24,7 +26,9 @@ notebook==4.4.1
 numpy==1.12.0
 packaging==16.8
 pandas==0.19.2
+pandas-datareader==0.3.0.post0
 pandocfilters==1.4.1
+patsy==0.4.1
 pexpect==4.2.1
 pickleshare==0.7.4
 prompt-toolkit==1.0.13
@@ -35,10 +39,14 @@ python-dateutil==2.6.0
 pytz==2016.10
 pyzmq==16.0.2
 qtconsole==4.2.1
+requests==2.13.0
+requests-file==1.4.1
+requests-ftp==0.3.1
 scipy==0.19.0
 seaborn==0.7.1
 simplegeneric==0.8.1
 six==1.10.0
+statsmodels==0.8.0
 terminado==0.6
 testpath==0.3
 tornado==4.4.2
